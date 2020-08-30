@@ -1,2 +1,3 @@
-path=www
-url=git@github.com:ronymateo2/utils-www.git
+[submodule "utils-www"]
+path = www
+url = git@github.com:ronymateo2/utils-www.git
