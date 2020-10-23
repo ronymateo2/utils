@@ -1,3 +1,3 @@
 [submodule "utils-www"]
-path = www
-url = git@github.com:ronymateo2/utils-www.git
+    path = www
+    url = https://github.com/ronymateo2/utils-www.git
